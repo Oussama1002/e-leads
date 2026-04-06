@@ -1,0 +1,291 @@
+CHECKLIST DESIGN SaaS – LEADBRIDGE (AI DESIGN WORKFLOW)
+1. DÉFINITION DU CADRE PRODUIT
+
+Avant toute génération IA, le designer doit formaliser :
+
+Objectif produit
+Définir clairement que la plateforme est une marketplace SaaS de gestion de leads multi-acteurs
+
+Personas utilisateurs
+Identifier les profils principaux :
+
+Vidéographe
+Media Buyer
+Confirmatrice
+Client (acheteur de leads)
+Administrateur
+
+Cas d’usage principaux
+Lister les actions clés par rôle :
+
+Générer des leads
+Qualifier des leads
+Acheter des leads
+Gérer campagnes
+Suivre performances
+
+Structure globale
+Définir les grandes sections :
+
+Dashboard
+Leads
+Marketplace
+Campagnes
+CRM
+Finance
+Paramètres
+2. ARCHITECTURE UX (INFORMATION ARCHITECTURE)
+
+Navigation principale
+
+Sidebar gauche (modules principaux)
+Header (profil, notifications, actions rapides)
+
+Organisation des modules
+
+Leads (liste, détails, statuts)
+Marketplace (achat / enchères)
+CRM (pipeline)
+Campagnes (ads)
+Finance (wallet, transactions)
+
+Structure des pages
+Chaque page doit contenir :
+
+Header clair
+Filtres
+Tableau ou cartes
+Actions principales
+
+Hiérarchie visuelle
+
+KPI en haut
+Actions ensuite
+Données en bas
+3. DESIGN SYSTEM (À GÉNÉRER AVEC IA)
+
+Couleurs
+
+Couleur principale (branding)
+Couleur secondaire
+Couleurs états (succès, erreur, warning)
+
+Typographie
+
+Police principale (moderne SaaS)
+Hiérarchie titres / textes
+
+Composants UI
+
+Boutons (primary / secondary)
+Inputs (forms)
+Tables
+Cards
+Modals
+Badges
+
+Grille
+
+Layout 12 colonnes
+Espacements cohérents
+4. DASHBOARD PRINCIPAL (PAR RÔLE)
+
+Le designer doit générer un dashboard différent par rôle :
+
+Vidéographe
+
+Performances créatives
+Liste vidéos
+Score contenu
+
+Media Buyer
+
+Campagnes actives
+CPL / ROI
+Leads générés
+
+Confirmatrice
+
+Liste leads à traiter
+Statuts
+Scripts
+
+Client
+
+Leads achetés
+Pipeline CRM
+ROI
+
+Admin
+
+Vue globale
+KPI plateforme
+Gestion utilisateurs
+5. MODULE LEADS (CORE UX)
+
+Liste des leads
+
+Table avec filtres avancés
+Recherche
+Statuts (validé, rejeté, en cours)
+
+Fiche lead
+
+Informations complètes
+Historique
+Score
+Actions rapides
+
+Actions
+
+Assignation
+Qualification
+Vente
+6. MODULE MARKETPLACE
+
+Affichage
+
+Leads en cartes ou liste
+Prix
+Score
+Disponibilité
+
+Actions
+
+Acheter
+Enchérir
+Ajouter aux favoris
+
+Filtres
+
+Secteur
+Budget
+Localisation
+7. MODULE CRM
+
+Pipeline
+
+Kanban (drag & drop)
+Colonnes :
+Nouveau
+Contacté
+Négociation
+Converti
+
+Fiche client
+
+Informations
+Historique
+Notes
+
+Actions
+
+Appeler
+Envoyer message
+Programmer relance
+8. MODULE CAMPAGNES (MEDIA BUYER)
+
+Dashboard campagnes
+
+Liste campagnes
+Statuts
+Performances
+
+Création campagne
+
+Formulaire structuré
+Sélection créatives
+Budget
+
+Analytics
+
+Graphiques
+KPI
+9. MODULE FINANCE
+
+Wallet
+
+Solde
+Historique
+
+Transactions
+
+Gains
+Dépenses
+
+Abonnements
+
+Plans
+Paiements
+10. UX AUTOMATION & IA
+
+Notifications
+
+Temps réel
+Alertes importantes
+
+Suggestions IA
+
+Leads prioritaires
+Actions recommandées
+
+Automatisation
+
+Relances auto
+Messages
+11. RESPONSIVE DESIGN
+
+Desktop (priorité SaaS)
+Tablet
+Mobile (simplifié)
+
+12. MICRO-INTERACTIONS
+
+Hover states
+Loading states
+Transitions
+Feedback utilisateur
+
+13. PERFORMANCE UX
+
+Temps de chargement rapide
+Navigation fluide
+Actions en 1 clic
+
+14. DESIGN AVEC IA – PROMPTS À UTILISER
+
+Exemples :
+
+“Design a modern SaaS dashboard for a lead generation platform with sidebar navigation, KPI cards, tables, and clean UI”
+
+“Create a CRM pipeline UI with kanban board and lead cards”
+
+“Design a marketplace UI for buying leads with filters and pricing cards”
+
+“Generate a multi-role SaaS interface with dashboards for marketing, sales and admin users”
+
+15. LIVRABLES ATTENDUS DESIGNER
+
+Maquettes complètes (Figma / outil AI)
+Design system
+Prototypes interactifs
+Versions responsive
+Composants réutilisables
+
+16. CHECK FINAL AVANT VALIDATION
+
+Toutes les pages principales conçues
+Cohérence visuelle
+UX fluide
+Adaptation multi-rôles
+Responsive validé
+Prêt pour développement
+
+CONCLUSION
+
+Cette checklist permet de garantir :
+
+une UX claire et scalable
+une structure adaptée SaaS
+un design prêt pour dev
+une utilisation optimale des outils IA

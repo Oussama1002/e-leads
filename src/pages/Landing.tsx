@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {
   ArrowRight,
   Bot,
-  Gauge,
   Moon,
   Sparkles,
   Sun,
@@ -11,14 +10,13 @@ import {
   Target,
   Monitor,
   Activity,
-  Users,
-  Shield,
   Workflow,
   CheckCircle2,
   Video,
   Megaphone,
   Phone,
-  Briefcase
+  Briefcase,
+  Play
 } from 'lucide-react'
 import { Button } from '../components/ui/Button'
 import { Card } from '../components/ui/Card'

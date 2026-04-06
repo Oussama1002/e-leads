@@ -1,4 +1,3 @@
-import React from 'react'
 import { useRole } from '../contexts/RoleContext'
 import { AdminDashboard } from './dashboards/AdminDashboard'
 import { ClientDashboard } from './dashboards/ClientDashboard'
